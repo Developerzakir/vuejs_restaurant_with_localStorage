@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "zakir",
+      "email": "zakir@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Zakir BD",
+      "email": "zakir@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "Zakir BD",
+      "email": "zakir@textiletoday.com.bd",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "sazzad",
+      "email": "sazzad@gmail.com",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "bazaz",
+      "contact": 112133,
+      "address": "uttara dhaka 1230"
+    },
+    {
+      "id": 2,
+      "name": "kacchiwala",
+      "contact": 112133,
+      "address": "uttara dhaka 1230"
+    },
+    {
+      "name": "kacchi house",
+      "address": "uttara",
+      "contact": 111111,
+      "id": 3
+    },
+    {
+      "name": "Kacchi ",
+      "address": "Uttara",
+      "contact": "22222",
+      "id": 4
+    }
+  ]
+}
